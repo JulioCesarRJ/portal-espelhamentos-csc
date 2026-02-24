@@ -1,6 +1,6 @@
 ## 📊 Portal de Espelhamentos CSC
 
-Aplicação interna desenvolvida com **Python + Streamlit** para automatizar o processamento, cruzamento e validação de múltiplos arquivos Excel/CSV extraídos do Portal SAF.
+Aplicação interna desenvolvida com **Python + Streamlit** para automatizar o processamento, cruzamento e validação de múltiplos arquivos Excel/CSV extraídos de um Site privado.
 
 A aplicação cruza os dados, aplica regras de validação e gera um **arquivo consolidado final**, utilizado para auditoria e conferência interna.
 

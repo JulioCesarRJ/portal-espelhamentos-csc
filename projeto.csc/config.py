@@ -1,0 +1,24 @@
+# FILTROS PADRÃO
+STATUS_ALVO = "Em andamento"
+CATEGORIA_ALVO = "Reembolso, adiantamento e prestação de contas"
+
+# ORDEM FINAL DE EXPORTAÇÃO
+
+ORDEM_COLUNAS_EXPORTACAO = [
+    "PROTOCOLO",
+    "LINHA",
+    "CATEGORIA",
+    "ETAPA",
+    "STATUS PROTOCOLO",
+    "EMAIL FAVORECIDO DESPESA",
+    "DESCRIÇÃO",
+    "MOEDA",
+    "VALOR",
+    "ESPELHAMENTO",
+    "EMAIL",
+    "SOLICITANTE",
+    "ATENDENTE",
+    "DATA DA SOLICITACAO",
+    "DATA DA DESPESA",
+    "QTD ITENS"
+]
